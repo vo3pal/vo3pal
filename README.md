@@ -27,9 +27,21 @@
 
 ---
 
-###  &nbsp;Tech Stack
+### 👾 &nbsp;About Me
 
-<p align="left">
+🎮 &nbsp;Roblox / Luau developer — game systems, scripting, Studio tooling
+
+🤖 &nbsp;Building autonomous AI agents for Roblox with TypeScript & Node.js
+
+📡 &nbsp;Learning LLM tool-calling, XML parsing pipelines & agentic loops
+
+🔭 &nbsp;Focus: making AI actually useful inside game engines
+
+---
+
+### 🛠 &nbsp;Tech Stack
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js" />
