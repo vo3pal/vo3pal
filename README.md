@@ -27,15 +27,25 @@
 
 ---
 
-### 👾 &nbsp;About Me
+### About Me
 
-🎮 &nbsp;Roblox / Luau developer — game systems, scripting, Studio tooling
+<table>
+<tr>
+<td valign="top" width="55%">
 
-🤖 &nbsp;Building autonomous AI agents for Roblox with TypeScript & Node.js
+**I'm a Roblox / Luau developer** building game systems and Studio tooling, with a growing focus on TypeScript and AI.
 
-📡 &nbsp;Learning LLM tool-calling, XML parsing pipelines & agentic loops
+- Currently building autonomous AI agents that work inside Roblox Studio
+- Learning LLM tool-calling, XML parsing pipelines & agentic loops
+- Goal: make AI actually useful inside game engines
+- Open to collabs on Roblox projects & dev tooling
 
-🔭 &nbsp;Focus: making AI actually useful inside game engines
+</td>
+<td valign="top" width="45%">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+</td>
+</tr>
+</table>
 
 ---
 
