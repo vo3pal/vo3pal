@@ -27,18 +27,7 @@
 
 ---
 
-### 👾 &nbsp;About Me
-
-```yaml
-name:     vo3pal
-focus:    [ "Roblox / Luau", "TypeScript", "AI Agents", "Node.js" ]
-building: "Autonomous AI tooling for Roblox Studio"
-learning: "LLM tool-calling, XML parsing, agentic loops"
-```
-
----
-
-### 🛠 &nbsp;Tech Stack
+###  &nbsp;Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" />
@@ -54,22 +43,12 @@ learning: "LLM tool-calling, XML parsing, agentic loops"
 
 ### 📊 &nbsp;GitHub Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vo3pal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vo3pal&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vo3pal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=1800" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vo3pal&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=vo3pal&theme=tokyonight&hide_border=true" />
-
----
-
-### 🐍 &nbsp;Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vo3pal/vo3pal/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vo3pal/vo3pal/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/vo3pal/vo3pal/output/github-contribution-grid-snake.svg" />
-</picture>
 
 </div>
 
