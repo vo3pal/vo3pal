@@ -1,57 +1,77 @@
+<!-- Header wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=140&section=header&text=vo3pal&fontSize=52&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Roblox%20%2F%20Luau%20%E2%80%A2%20TypeScript%20%E2%80%A2%20AI%20Builder&descAlignY=78&descSize=16&descColor=aaaacc" />
+
 <div align="center">
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=555555&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+vo3pal+%F0%9F%91%8B;Roblox+%2F+Luau+Developer;TypeScript+%2B+AI+Builder;Always+making+something+new)](https://git.io/typing-svg)
+<!-- Typing animation -->
+<a href="https://github.com/vo3pal">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=7C83FD&center=true&vCenter=true&width=480&lines=Building+things+for+Roblox+Studio;TypeScript+%2B+Node+%2B+AI+Tooling;Luau+scripting+%26+game+systems;Always+shipping+something+new" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Social links -->
+<a href="https://www.youtube.com/@Vo3palScripter">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://sites.google.com/view/vo3pal/project-page">
+  <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/vo3pal">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
 
 ---
 
-### About me
+### 👾 &nbsp;About Me
 
-I build things for Roblox Studio and beyond — Luau scripting, game systems, and TypeScript/Node backends with a growing interest in AI tooling and autonomous agents.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-4A90D9?style=flat-square&logo=google-chrome&logoColor=white)](https://sites.google.com/view/vo3pal/project-page)
-[![YouTube](https://img.shields.io/badge/YouTube-Vo3palScripter-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Vo3palScripter)
-
----
-
-### Tech Stack
-
-<!-- Languages -->
-![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=roblox&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-<!-- Tools -->
-![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-E02020?style=flat-square&logo=roblox&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+```yaml
+name:     vo3pal
+focus:    [ "Roblox / Luau", "TypeScript", "AI Agents", "Node.js" ]
+building: "Autonomous AI tooling for Roblox Studio"
+learning: "LLM tool-calling, XML parsing, agentic loops"
+```
 
 ---
 
-### GitHub Stats
+### 🛠 &nbsp;Tech Stack
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=vo3pal&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vo3pal&layout=compact&theme=default&hide_border=true&langs_count=6" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="42" height="42" alt="Lua / Luau" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" height="42" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="42" alt="GitHub" />
+</p>
 
 ---
 
-### Streak
+### 📊 &nbsp;GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vo3pal&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vo3pal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vo3pal&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=vo3pal&theme=tokyonight&hide_border=true" />
 
 ---
 
-### Contribution Snake
+### 🐍 &nbsp;Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vo3pal/vo3pal/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vo3pal/vo3pal/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/vo3pal/vo3pal/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/vo3pal/vo3pal/output/github-contribution-grid-snake.svg" />
 </picture>
 
----
-
-<sub>Profile auto-updated · Built with ❤️</sub>
-
 </div>
+
+<!-- Footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" />
